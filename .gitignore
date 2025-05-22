@@ -1,0 +1,34 @@
+# Ignore CSV output
+*.csv
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore JetBrains IDEs (PyCharm, IntelliJ, etc.)
+.idea/
+*.iml
+
+# Ignore other common IDE/editor configs
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.swp
+*.bak
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
